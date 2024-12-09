@@ -1,0 +1,44 @@
+*{
+    font-family: Helvetica;
+}
+
+.headline{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('../images/pattern.webp');
+    margin-top: 80px;
+}
+
+.content-section .section-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.content-section .section-title.brush {
+    background-color: mediumspringgreen;
+}
+
+.content-section .section-title.frames {
+    background-color: lightcoral;
+}
+
+.content-section .section-title.paint {
+    background-color: skyblue;
+}
+
+.content-section figure{
+    margin: 0px;
+}
+
+.content-section figure figcaption{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.content-section p span{
+    font-weight: bold;
+    color: blue;
+}
